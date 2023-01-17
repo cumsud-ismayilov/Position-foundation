@@ -1,0 +1,111 @@
+#task_1 .pos {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  padding: 100px;
+}
+.item1 {
+  width: 700px;
+  height: 500px;
+}
+.item2 {
+  width: 467px;
+  height: 343px;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
+.item1 {
+  position: relative;
+}
+
+.item2 {
+  position: absolute;
+  bottom: -75px;
+  left: -220px;
+}
+
+#task_2 .pos1 {
+  width: 500px;
+  height: 500px;
+  margin: 0px auto;
+  padding: 500px;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
+
+.item3 {
+  width: 700px;
+  height: 500px;
+}
+.item4 {
+  width: 450px;
+  height: 350px;
+}
+.item5 {
+  width: 365px;
+  height: 268px;
+}
+.item3 {
+  position: relative;
+}
+.item4 {
+  position: absolute;
+  top: -99px;
+  right: -138px;
+}
+.item5 {
+  position: absolute;
+  bottom: -85px;
+  right: -235px;
+}
+
+#task_3 .pos2 {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  padding: 200px;
+}
+img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 10px;
+}
+.foto1 {
+ 
+   width: 650px;
+  height: 450px;
+  position: relative;
+}
+.foto2 {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+  top: -69px;
+  left: -169px;
+  }
+.foto3 {
+  width: 380px;
+  height: 280px;
+  position: absolute;
+  bottom: -61px;
+  left: -148px;
+  }
+.foto4 {
+  width: 140px;
+  height: 140px;
+  position: absolute;
+  left: 187px;
+  top: 150px;
+ }
